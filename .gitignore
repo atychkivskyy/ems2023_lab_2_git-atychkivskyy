@@ -55,3 +55,6 @@ dependency-reduced-pom.xml
 
 README.html
 application.properties
+
+# user specific files
+sandbox/
